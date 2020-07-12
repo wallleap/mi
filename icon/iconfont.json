@@ -1,0 +1,44 @@
+{
+  "id": "1795586",
+  "name": "miSidebar",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "459006",
+      "name": "phone",
+      "font_class": "phone",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "5394613",
+      "name": "person",
+      "font_class": "person",
+      "unicode": "e656",
+      "unicode_decimal": 58966
+    },
+    {
+      "icon_id": "9512638",
+      "name": "客服",
+      "font_class": "service",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "11125226",
+      "name": "购物车",
+      "font_class": "3",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "11770153",
+      "name": "setting",
+      "font_class": "setting",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    }
+  ]
+}
